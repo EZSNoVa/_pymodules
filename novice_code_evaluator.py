@@ -34,7 +34,7 @@ Response should be logically readable and should not contain any grammatical err
 If the response satisfies the prompt as expected you return 1 else 0.
 You don't have to be strict, just ensure response is logically correct and is not gibberish.
 You might turn down responses that are EXTREMELY lame, strict, boring, unfan or uncreative. 
-Yet, be permissive,.
+Yet, be permissive, especially if the response is creative and visually appealing.
 // IMPORTANT: Your response MUST be either 1 or 0. Any other response will be considered as incorrect. 
 
 Prompt: 
